@@ -12,7 +12,7 @@ public class HelloApplication extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
         Object root = FXMLLoader.load(getClass().getResource("fxml/view-students.fxml"));
-        primaryStage.setTitle("Student Manager");
+primaryStage.setTitle("FIS - Student Manager");
         primaryStage.setScene(new Scene((Parent) root, 600, 400));
         primaryStage.show();
     }

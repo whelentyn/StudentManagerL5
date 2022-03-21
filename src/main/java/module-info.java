@@ -4,6 +4,6 @@ module com.valisteven.project_lab5 {
 
     requires org.kordamp.bootstrapfx.core;
 
-    opens com.valisteven.project_lab5 to javafx.fxml;
-    exports com.valisteven.project_lab5;
+    opens com.valisteven.loose.oose.fis.lab.student.manager to javafx.fxml;
+    exports com.valisteven.loose.oose.fis.lab.student.manager;
 }

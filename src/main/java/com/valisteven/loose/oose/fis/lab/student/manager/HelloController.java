@@ -1,4 +1,4 @@
-package com.valisteven.project_lab5;
+package com.valisteven.loose.oose.fis.lab.student.manager;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
